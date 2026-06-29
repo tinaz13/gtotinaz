@@ -1,0 +1,14 @@
+{
+  "name": "GTOtinaz Trainer",
+  "short_name": "GTOtinaz",
+  "description": "GTO poker trainer 6-max — preflop GTO + coaching",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07090d",
+  "theme_color": "#07090d",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e2036"/>
+      <stop offset="1" stop-color="#07090d"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4b24a"/>
+      <stop offset="1" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <rect x="6" y="6" width="500" height="500" rx="108" fill="none" stroke="#3b82f6" stroke-opacity="0.35" stroke-width="4"/>
+  <!-- spade -->
+  <path d="M256 96 C 196 168, 120 196, 120 268 C 120 314, 156 344, 196 344 C 222 344, 244 330, 256 312 C 268 330, 290 344, 316 344 C 356 344, 392 314, 392 268 C 392 196, 316 168, 256 96 Z" fill="url(#gold)"/>
+  <path d="M236 330 C 236 372, 224 398, 196 416 L 316 416 C 288 398, 276 372, 276 330 Z" fill="url(#gold)"/>
+  <text x="256" y="470" text-anchor="middle" font-family="-apple-system,Helvetica,Arial,sans-serif" font-weight="800" font-size="62" letter-spacing="2" fill="#e6edf3">GTO</text>
+</svg>
